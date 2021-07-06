@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about Python, Java and other web technologies related stuff
-- 📫 How to reach me: [LinkedIn - @yvlk](https://www.linkedin.com/in/yvlk)
 ```
+ 📫 How to reach me: [LinkedIn - @yvlk](https://www.linkedin.com/in/yvlk)
+
 
 <a href="https://github.com/lalith050101">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalith050101&title_color=2be0ed&show_icons=true&theme=dark&line_height=27" alt="lalith's github stats"/>
