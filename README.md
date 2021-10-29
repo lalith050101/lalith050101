@@ -4,9 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=lalith050101" alt="lalith050101" />
 
 ```
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 Interested in Programming
+- 🌱 Full Stack Web Development
+- 💞️ Looking to collaborate on Web Development Projects
 - 💬 Ask me about Python, Java and other web technologies related stuff
 ```
  📫 How to reach me: [LinkedIn - @yvlk](https://www.linkedin.com/in/yvlk)
